@@ -4,7 +4,7 @@
 
 📊 Turning **plans → timelines → execution → hopefully, completion.** <br>
 
-💻 **Developer at heart**, building projects whenever I'm not busy planning someone else's. <br>
+💻 **AI is a friend but sometimes it gets MESSY**, building projects whenever I'm not busy planning someone else's. <br>
 
 🛡️ Currently exploring **Cyber Security** because *“Privacy is a Myth™”* seemed like a reasonable rabbit hole. <br>
 
