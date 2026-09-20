@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👨‍💻 I'm currently working as a **PPC employee — Project Planning & Control @ SCHACH ENGINERS** <br>
+👨‍💻 I'm currently working as a **PPC employee — Project Planning & Control @ SCHACH ENGINERS @MUMBAI** <br>
 
 📊 Turning **plans → timelines → execution → hopefully, completion.** <br>
 
