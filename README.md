@@ -1,6 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
 
+👨‍💻 I'm currently working as a **PPC employee — Project Planning & Control @ SCHACH ENGINERS** <br>
+
+📊 Turning **plans → timelines → execution → hopefully, completion.** <br>
+
+💻 **Developer at heart**, building projects whenever I'm not busy planning someone else's. <br>
+
+🛡️ Currently exploring **Cyber Security** because *“Privacy is a Myth™”* seemed like a reasonable rabbit hole. <br>
+
+🤝 **Open to collaborating** on interesting projects, ambitious ideas, and things that shouldn't work but somehow do. <br>
+
+💬 **Ask me about:** Tech, projects, coding, or my questionable life decisions.<br>
+
+⚡ **Fun fact:**
+I make plans for a living and then debug them in production.
+
+`PLAN. BUILD. BREAK. FIX. REPEAT.`
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nbDr62jAXa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-chousali-395b5b2b5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ChousaliG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalchousali@gmail.com) 
